@@ -3,15 +3,14 @@
 
 ## Introdução
 
-<p align="center">
-  <img src="" alt="Screenshot"/>
-</p>
-
-
-
 O curso "Curso de Desenvolvimento Web com Microsoft Asp.Net MVC" ocorrerá de 30/11 até 11/12.
 Esse curso visa aproximar a comunidade da faculdade tranzendo os principais conceitos de desenvolvimento de software 
-na web com a plataforma Asp.Net;
+na web com a plataforma Asp.Net.
+
+<p align="center">
+  <img src="https://github.com/aceiro/curso_dot_net_2015/blob/master/imgs/Folder_DotNet.png" alt="Screenshot"/>
+</p>
+
 
 Esse é um segundo curso promovido esse ano pela curso de Sistemas Informação (o anterior foi de "Introdução ao Git e GitHub")
 
@@ -57,7 +56,7 @@ Nessa seção você encontra alguns links importantes como os utilizados na moti
 
 Professores responsáveis:
 Prof. Esp. Rafael dos Reis (professor responsável)
-- [LinkedIn - Rafael dos Reis] (https://www.linkedin.com/pub/erik-aceiro-antonio/25/189/aa0)
+- [LinkedIn - Rafael dos Reis] (https://br.linkedin.com/in/rafaeldreis)
 
 Prof. Dr. Erik Aceiro Antonio (coordenador)
 - [Lattes - Erik Aceiro Antonio] (http://lattes.cnpq.br/1687921185079998)
