@@ -4,21 +4,23 @@
 ## Introdução
 
 O curso "Curso de Desenvolvimento Web com Microsoft Asp.Net MVC" ocorrerá de 30/11/2015 até 11/12/2015 e visa 
-aproximar a comunidade de Rio Claro e região da faculdade ASSER promovendo assim um ambiente favorável a 
+aproximar a comunidade de Rio Claro e região da faculdade ASSER promovendo um ambiente favorável para a 
 troca de ideias sobre a plataforma Asp.Net.
 
 <p align="center">
-  <img style="width: 50%; height: 60%;" src="https://github.com/aceiro/curso_dot_net_2015/blob/master/imgs/Folder_DotNet.png" alt="Screenshot"/>
+  <img width="500" src="https://github.com/aceiro/curso_dot_net_2015/blob/master/imgs/Folder_DotNet.png" alt="Screenshot"/>
 </p>
 
 
-Esse é um segundo curso promovido esse ano pela curso de Sistemas Informação (o anterior foi de "Introdução ao Git e GitHub").
+*Esse é um segundo curso promovido esse ano pela curso de Sistemas Informação (o anterior foi de "Introdução ao Git e GitHub").*
 
-Ementa:
+**Ementa:**
 
-Título do curso: "Curso de Desenvolvimento Web com Microsoft Asp.Net MVC"
-Carga-horária: 30 horas
-Custo: R$ 30,00 por aluno
+**Título do curso:** Curso de Desenvolvimento Web com Microsoft Asp.Net MVC
+
+**Carga-horária:** 30 horas
+
+**Custo:** R$ 30,00 por aluno
 
 - Professor: Esp. Rafael dos Reis
 - Coordenador: Dr. Erik Aceiro Antonio (curso de Sistemas de Informação)
