@@ -38,7 +38,7 @@ Tópicos:
 Para maiores informações acessar o conteúdo dos slides disponível em [Slides] (https://github.com/aceiro/curso_dot_net_2015/tree/master/slides).
 
 ## Exemplos
-- [Aula 1] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exemplos/aula_01)
+- [Aula 1] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_01)
 
 ## Referências
 
