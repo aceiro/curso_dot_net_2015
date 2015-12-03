@@ -8,7 +8,7 @@ A Figura a seguir ilustra a arquitetura preliminar utilizada para essa atividade
 
 
 <p align="center">
-  <img width="500" src="https://github.com/aceiro/curso_dot_net_2015/blob/master/imgs/DiagramaComponente_Geral.png" alt="Screenshot"/>
+  <img width="700" src="https://github.com/aceiro/curso_dot_net_2015/blob/master/imgs/DiagramaComponente_Geral.png" alt="Screenshot"/>
 </p>
 
 
@@ -18,5 +18,5 @@ A Figura a seguir ilustra a arquitetura preliminar utilizada para essa atividade
 
 
 Como ainda não aprendemos sobre banco de dados (*Entity Framework*), vamos criar tanto a validação do usuário 
-quanto a lista de pedidos na sessão usado a ideia de **mock** com lista **in-memory on the fly** 
+quanto a lista de pedidos na sessão usando a ideia de **mock** com lista **in-memory on the fly** 
 
