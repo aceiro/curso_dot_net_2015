@@ -48,8 +48,8 @@ Para maiores informações acessar o conteúdo dos slides disponível em [Slides
 
 Nessa seção você encontra alguns links importantes como os utilizados na motivação de games bem como frameworks e exemplos.
 
- - [Programação Funcional] (http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp)
- - [Y] (http://yyy)
+ - [Programação Funcional em C#] (http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp)
+ - [Programação Funcional em Java] (https://dzone.com/articles/functional-programming-java-8)
 
 
 
