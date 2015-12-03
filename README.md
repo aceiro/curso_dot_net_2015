@@ -50,7 +50,7 @@ Nessa seção você encontra alguns links importantes como os utilizados na moti
 
  - [Programação Funcional em C#] (http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp)
  - [Programação Funcional em Java] (https://dzone.com/articles/functional-programming-java-8)
-
+ - [MVC-Model-Binding] (http://www.codeproject.com/Articles/710776/Introduction-to-ASP-NET-MVC-Model-Binding-An-Absol)
 
 
 
