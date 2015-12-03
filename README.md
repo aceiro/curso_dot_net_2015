@@ -40,6 +40,7 @@ Para maiores informações acessar o conteúdo dos slides disponível em [Slides
 ## Exemplos
 - [Aula 1] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_01)
 - [Aula 2] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_02)
+- [Aula 3] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_03)
 
 ## Referências
 
@@ -47,8 +48,7 @@ Para maiores informações acessar o conteúdo dos slides disponível em [Slides
 
 Nessa seção você encontra alguns links importantes como os utilizados na motivação de games bem como frameworks e exemplos.
 
-### Motivação
- - [X] (http://xxx)
+ - [Programação Funcional] (http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp)
  - [Y] (http://yyy)
 
 
