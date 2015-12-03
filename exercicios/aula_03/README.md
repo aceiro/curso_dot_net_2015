@@ -12,7 +12,7 @@ Além disso, observe os arquivos relativos a `View` que são `Index.cshtml` e `E
 
 - **WebApplication_Exemplo2**
 
-Além do Controller  e View nesse exemplo será possível interagir com o **Model** nesse caso, observe atentamente o uso do modelo `SomaViewModel` e a forma como acionado por Injeção de Dependencia (DI) do Asp.NET com o uso da linguagem demarcação server-side [Razor](http://www.w3schools.com/aspnet/razor_intro.asp). 
+Além do Controller  e View nesse exemplo será possível interagir com o **Model** nesse caso, observe atentamente o uso do modelo `SomaViewModel` e a forma como pelo [model binding MVC](http://www.codeproject.com/Articles/710776/Introduction-to-ASP-NET-MVC-Model-Binding-An-Absol) e o uso da linguagem de marcação server-side [Razor](http://www.w3schools.com/aspnet/razor_intro.asp). 
 
 > O código desse exercício resolve o problema de renderização do `@EditorFor()`
 > nesse caso, foi trocado de `@EditorFor()` para `@DisplayFor()`
