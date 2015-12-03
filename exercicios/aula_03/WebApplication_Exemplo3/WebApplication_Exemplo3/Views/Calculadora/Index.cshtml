@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index - Operações da Calculadora</h2>
+
+<p>@Html.ActionLink("Adição", "Adicao", "Calculadora", new { @class = "btn btn-primary btn-large" })</p>
+<!-- 
+    TODO: COMPLETAR O ACTIONLINK COM O CONTROLADOR E A CLASSE DE BOTÃO 
+    SINTAXE:
+        Html.ActionLink([NOME DO VALOR HTML], [ACTION], [CONTROLLER], [CLASSE CSS])
+-->
+<p>@Html.ActionLink("Subtracao", "Subtracao")</p>
+<p>@Html.ActionLink("Multiplicação", "Multiplicacao")</p>
+<p>@Html.ActionLink("Divisão", "Divisao")</p>
+
