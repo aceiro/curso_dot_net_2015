@@ -32,6 +32,8 @@ Para o desenvolvimento deste projetos os seguintes requisitos devem ser satisfei
 
 - Exemplo 1
 Esse exemplo ilustra os principais conceitos apresentados em sala. Desenvolvido pelo Prof. Rafael Reis o exemplo contempla os conceitos:
+
+
 1. Sessão
 2. Data Anotations
 3. Design Pattern MVC
@@ -40,6 +42,8 @@ Esse exemplo ilustra os principais conceitos apresentados em sala. Desenvolvido 
 
 - Exemplo 2
 Exemplo similiar ao Exemplo 1 com a diferença que inclui os seguintes conceitos:
+
+
 1. Separação de Interesses (SoCs) em módulos (BLL/DTO/APP)
 2. Geração de logs
 3. Uso de Interfaces para Injeção de Dependencias
