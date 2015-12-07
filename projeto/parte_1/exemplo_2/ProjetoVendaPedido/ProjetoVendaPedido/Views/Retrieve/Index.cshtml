@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProjetoVendaPedido.Models.PedidoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+<script type="text/javascript">
+    $(function () {
+        $('#my-dialog').dialog({
+            autoOpen: false,
+            width: 400,
+            resizable: false,
+            modal: true
+        });
+
+        $('.modal').click(function() {
+            $('#my-dialog').load(this.href, function() {
+                $(this).dialog('open');
+            });
+            return false;
+        });
+    });
+</script>
+
+<h2>Lista de Pedidos</h2>
+
+<p>
+    @Html.ActionLink("Criar um novo pedido", "Create")
+    <div id="my-dialog"></div>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id = item.Id } ) |
+            @Html.ActionLink("Remover", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

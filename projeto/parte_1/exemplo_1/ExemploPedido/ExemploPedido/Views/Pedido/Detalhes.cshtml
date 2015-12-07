@@ -1,0 +1,34 @@
+﻿@model ExemploPedido.Models.PedidoViewModel
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>PedidoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Alterar", "Alterar", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar para lista de pedidos", "Index")
+</p>

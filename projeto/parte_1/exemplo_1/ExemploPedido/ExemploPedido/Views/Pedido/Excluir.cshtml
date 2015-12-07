@@ -1,0 +1,40 @@
+﻿@model ExemploPedido.Models.PedidoViewModel
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h2>Excluir</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PedidoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar para lista de pedidos", "Index")
+        </div>
+    }
+</div>
