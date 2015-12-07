@@ -32,17 +32,17 @@ Para o desenvolvimento deste projetos os seguintes requisitos devem ser satisfei
 
 - Exemplo 1
 Esse exemplo ilustra os principais conceitos apresentados em sala. Desenvolvido pelo Prof. Rafael Reis o exemplo contempla os conceitos:
-* Sessão
-* Data Anotations
-* Design Pattern MVC
-* Cookies
+1. Sessão
+2. Data Anotations
+3. Design Pattern MVC
+4. Cookies
 
 
 - Exemplo 2
 Exemplo similiar ao Exemplo 1 com a diferença que inclui os seguintes conceitos:
-* Separação de Interesses (SoCs) em módulos (BLL/DTO/APP)
-* Geração de logs
-* Uso de Interfaces para Injeção de Dependencias
-* Sessão
-* Cookies
-* Design Pattern Factory
+1. Separação de Interesses (SoCs) em módulos (BLL/DTO/APP)
+2. Geração de logs
+3. Uso de Interfaces para Injeção de Dependencias
+4. Sessão
+5. Cookies
+6. Design Pattern Factory
