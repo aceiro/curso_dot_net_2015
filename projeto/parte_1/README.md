@@ -1,4 +1,4 @@
-# Proejto (Parte 1)
+# Projeto (Parte 1)
 
 O projeto consiste na elaboração de um pequeno CRUD para o gerenciamento de pedidos online. Nessa primeira parte,
 os alunos deverão criar as classes básicas do pedido e também de autenticação via login usando todos os conceitos 
@@ -27,3 +27,12 @@ Para o desenvolvimento deste projetos os seguintes requisitos devem ser satisfei
 - Os logins devem ser armazenos em uma lista estática para recuperação via lambda
 - Os usuários devem estar logados para ter acesso ao controle de pedidos (o acesso não pode ser feito via url caso o usuário não esteja logado)
 - Usar as figuras para implementação
+
+# Solução (Parte 1)
+
+- Exemplo 1
+Esse exemplo ilustra os principais conceitos apresentados em sala.
+Desenvolvido pelo Prof. Rafael Reis o exemplo contempla os conceitos de
+
+
+- Exemplo 2
