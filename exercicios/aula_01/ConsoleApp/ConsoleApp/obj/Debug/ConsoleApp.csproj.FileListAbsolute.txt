@@ -1,6 +1,0 @@
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
-C:\Users\Erik\Documents\Visual Studio 2013\Projects\Curso_DotNet\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
