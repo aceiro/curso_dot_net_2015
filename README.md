@@ -41,9 +41,12 @@ Para maiores informações acessar o conteúdo dos slides disponível em [Slides
 - [Aula 1] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_01)
 - [Aula 2] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_02)
 - [Aula 3] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_03)
+- [Aula 4] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_04)
+- [Aula 5] (https://github.com/aceiro/curso_dot_net_2015/tree/master/exercicios/aula_05)
 
 ## Projeto
 - [Parte 1] (https://github.com/aceiro/curso_dot_net_2015/tree/master/projeto/parte_1)
+- [Projeto Final] (https://github.com/aceiro/curso_dot_net_2015/tree/master/projeto/projeto_final)
 
 ## Referências
 
@@ -54,7 +57,7 @@ Nessa seção você encontra alguns links importantes como os utilizados na moti
  - [Programação Funcional em C#] (http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp)
  - [Programação Funcional em Java] (https://dzone.com/articles/functional-programming-java-8)
  - [MVC-Model-Binding] (http://www.codeproject.com/Articles/710776/Introduction-to-ASP-NET-MVC-Model-Binding-An-Absol)
-
+ - [Repository] (http://blog.falafel.com/implement-step-step-generic-repository-pattern-c/)
 
 
 
