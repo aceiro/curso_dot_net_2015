@@ -1,8 +1,8 @@
 # Projeto (Parte 1)
 
-O projeto consiste na elaboraÁ„o de um pequeno CRUD para o gerenciamento de pedidos online. Nessa primeira parte,
-os alunos dever„o criar as classes b·sicas do pedido e tambÈm de autenticaÁ„o via login usando todos os conceitos 
-vistos atÈ a aula 4.
+O projeto consiste na elabora√ß√£o de um pequeno CRUD para o gerenciamento de pedidos online. Nessa primeira parte,
+os alunos dever√£o criar as classes b√°sicas do pedido e tamb√©m de autentica√ß√£o via login usando todos os conceitos 
+vistos at√© a aula 4.
 
 A Figura a seguir ilustra a arquitetura preliminar utilizada para essa atividade
 
@@ -17,22 +17,36 @@ A Figura a seguir ilustra a arquitetura preliminar utilizada para essa atividade
 </p>
 
 
-Como ainda n„o aprendemos sobre banco de dados (*Entity Framework*), vamos criar tanto a validaÁ„o do usu·rio 
-quanto a lista de pedidos na sess„o usando a ideia de **mock** com lista **in-memory on the fly** 
+Como ainda n√£o aprendemos sobre banco de dados (*Entity Framework*), vamos criar tanto a valida√ß√£o do usu√°rio 
+quanto a lista de pedidos na sess√£o usando a ideia de **mock** com lista **in-memory on the fly** 
 
 Para o desenvolvimento deste projetos os seguintes requisitos devem ser satisfeitos:
-- Campos do pedido devem ser obrigatÛrios
+- Campos do pedido devem ser obrigat√≥rios
 - O campo ID do pedido deve ser do tipo auto-incremento
-- A lista de pedidos deve ser armazenada na sess„o
-- Os logins devem ser armazenos em uma lista est·tica para recuperaÁ„o via lambda
-- Os usu·rios devem estar logados para ter acesso ao controle de pedidos (o acesso n„o pode ser feito via url caso o usu·rio n„o esteja logado)
-- Usar as figuras para implementaÁ„o
+- A lista de pedidos deve ser armazenada na sess√£o
+- Os logins devem ser armazenos em uma lista est√°tica para recupera√ß√£o via lambda
+- Os usu√°rios devem estar logados para ter acesso ao controle de pedidos (o acesso n√£o pode ser feito via url caso o usu√°rio n√£o esteja logado)
+- Usar as figuras para implementa√ß√£o
 
-# SoluÁ„o (Parte 1)
+# Solu√ß√£o (Parte 1)
 
 - Exemplo 1
-Esse exemplo ilustra os principais conceitos apresentados em sala.
-Desenvolvido pelo Prof. Rafael Reis o exemplo contempla os conceitos de
+Esse exemplo ilustra os principais conceitos apresentados em sala. Desenvolvido pelo Prof. Rafael Reis o exemplo contempla os conceitos:
+
+
+1. Sess√£o
+2. Data Anotations
+3. Design Pattern MVC
+4. Cookies
 
 
 - Exemplo 2
+Exemplo similiar ao Exemplo 1 com a diferen√ßa que inclui os seguintes conceitos:
+
+
+1. Separa√ß√£o de Interesses (SoCs) em m√≥dulos (BLL/DTO/APP)
+2. Gera√ß√£o de logs
+3. Uso de Interfaces para Inje√ß√£o de Dependencias
+4. Sess√£o
+5. Cookies
+6. Design Pattern Factory
