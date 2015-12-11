@@ -53,7 +53,7 @@ namespace Exemplo.Portal.Infraestrutura.Data.Repositorios
 
         public void Remover(TEntidade entidade)
         {
-            dbSet.Remove(entidade);
+            contexto.Entry(entidade).State = EntityState.Deleted;
         }
 
         public void Dispose()
